@@ -15,4 +15,6 @@
 
 ## Repository Link
 
+[Click Here!](https://github.com/susangrace909/odin-recipes.git)
+
 ## Screenshot
